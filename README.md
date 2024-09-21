@@ -41,6 +41,6 @@
 
 + C++언어
 
-+ VisualStudio 2019, 2022
++ Visual Studio 2019, 2022
 
 
